@@ -1,7 +1,7 @@
 *.xml
 *.iml
-*.idea/
-*out/
+.idea/
+out/
 
 /Head First Design Patterns.pdf
 /Learning UML 2.0.pdf
